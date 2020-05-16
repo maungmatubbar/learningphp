@@ -1,0 +1,21 @@
+/*
+.div-one {
+    height: 200px;
+    width: 200px;
+    background-color: #007bff;
+}
+@media screen and (max-width: 520px) {
+    body {
+        background-color: red;
+    }
+}
+@media screen and (min-width: 525px) and (max-width: 600px) {
+    body {
+        background-color: green;
+    }
+}
+@media screen and (min-width: 1000px) {
+    body {
+        background-color: yellow;
+    }
+}*/
